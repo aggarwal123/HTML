@@ -1,0 +1,32 @@
+body{
+  background-color: #b0e0e6
+}
+h1{
+  text-align: center;
+  border: solid;
+}
+h2{
+  font-family: sans-serif;
+  text-align: center;
+  margin: 30px 0;
+  border:solid;
+}
+h3{
+  text-align: center;
+  margin: 30px 0;
+  border:solid;
+}
+h4{
+  text-align: center;
+  margin: 30px 0;
+  border:solid;
+}
+.body{
+  text-align: center;
+  margin: 30px 0;
+  border:solid;
+  background-color: #F0F00E;
+}
+.py{
+  text-align: right;
+}
